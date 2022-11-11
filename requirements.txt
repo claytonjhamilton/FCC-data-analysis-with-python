@@ -10,7 +10,7 @@ fonttools==4.37.1
 ipykernel==6.15.1
 ipython==8.4.0
 jedi==0.18.1
-jupyter-core==4.11.1
+jupyter-core>=4.11.2
 jupyter_client==7.3.5
 kiwisolver==1.4.4
 matplotlib==3.5.3
